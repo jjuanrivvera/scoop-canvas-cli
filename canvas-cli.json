@@ -1,12 +1,12 @@
 {
-    "version": "1.10.3",
+    "version": "1.10.4",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jjuanrivvera/canvas-cli/releases/download/v1.10.3/canvas-cli_windows_x86_64.zip",
+            "url": "https://github.com/jjuanrivvera/canvas-cli/releases/download/v1.10.4/canvas-cli_windows_x86_64.zip",
             "bin": [
                 "canvas.exe"
             ],
-            "hash": "5f646f780fbaac30d0e6a964bf1ba71ad29b77626f050a4be0ad1c1db45e4ae4"
+            "hash": "adf9859d78cb0a724eeaac7b2b4b6388a6eeba03b5e32b54f435e5b1dbe448d5"
         }
     },
     "homepage": "https://github.com/jjuanrivvera/canvas-cli",
